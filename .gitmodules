@@ -1,3 +1,6 @@
 [submodule "back_ptut"]
 	path = back_ptut
 	url = https://github.com/Theresemariej/back_ptut.git
+[submodule "back"]
+	path = back
+	url = https://github.com/Theresemariej/back_ptut.git
